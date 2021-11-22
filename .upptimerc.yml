@@ -1,16 +1,16 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: VYNX-Bot # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
+  - name: Main Bot
+    url: https://Vynx.snaky4life.repl.co
+  - name: Main Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Helpdesk
+    url: https://thissitedoesnotexist.koj.co
+  - name: Status Page
+    url: https://VYNX-Bot.github.io/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,3 +29,4 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
