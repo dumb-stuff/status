@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/vynx.snaky4life.repl.co",
     "slug": "main-bot",
     "status": "down",
-    "uptime": "95.98%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "95.98%",
-    "uptimeYear": "95.98%",
+    "uptime": "79.03%",
+    "uptimeDay": "79.03%",
+    "uptimeWeek": "79.03%",
+    "uptimeMonth": "79.03%",
+    "uptimeYear": "79.03%",
     "time": 301,
     "timeDay": 301,
     "timeWeek": 301,
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2021-11-22": 16
+      "2021-11-23": 68,
+      "2021-11-22": 31
     }
   },
   {
@@ -36,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-22": 387
+      "2021-11-23": 68,
+      "2021-11-22": 402
     }
   },
   {
@@ -56,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-22": 387
+      "2021-11-23": 68,
+      "2021-11-22": 402
     }
   },
   {
