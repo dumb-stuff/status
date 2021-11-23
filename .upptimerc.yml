@@ -6,7 +6,7 @@ sites:
   - name: Main Bot
     url: https://Vynx.snaky4life.repl.co
     assignees:
-      - snaky4life
+      - Snaky4life
   - name: Main Site
     url: https://thissitedoesnotexist.koj.co
     assignees:
