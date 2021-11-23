@@ -4,19 +4,19 @@
     "url": "https://Vynx.snaky4life.repl.co",
     "icon": "https://favicons.githubusercontent.com/vynx.snaky4life.repl.co",
     "slug": "main-bot",
-    "status": "up",
-    "uptime": "75.71%",
-    "uptimeDay": "75.71%",
-    "uptimeWeek": "75.71%",
-    "uptimeMonth": "75.71%",
-    "uptimeYear": "75.71%",
+    "status": "down",
+    "uptime": "79.92%",
+    "uptimeDay": "78.90%",
+    "uptimeWeek": "79.92%",
+    "uptimeMonth": "79.92%",
+    "uptimeYear": "79.92%",
     "time": 321,
-    "timeDay": 321,
+    "timeDay": 304,
     "timeWeek": 321,
     "timeMonth": 321,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2021-11-23": 282,
+      "2021-11-23": 274,
       "2021-11-22": 31
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-23": 880,
+      "2021-11-23": 1112,
       "2021-11-22": 402
     }
   },
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-23": 880,
+      "2021-11-23": 1112,
       "2021-11-22": 402
     }
   },
@@ -74,7 +74,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 204,
+    "timeDay": 224,
     "timeWeek": 204,
     "timeMonth": 204,
     "timeYear": 204,
