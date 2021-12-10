@@ -24,7 +24,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status
-  logoUrl: https://vynx.pages.dev/sdfghjkl.png
+  logoUrl: https://avatar1.freshworks.com/org/eu/382969460579118075/ORIGINAL.png
   name: VYNX Status
   introTitle: "Welcome to **VYNX's** status page."
   introMessage: Here you can see live stats on the uptime of the VYNX bot.
