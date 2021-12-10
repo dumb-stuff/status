@@ -8,7 +8,7 @@ sites:
     assignees:
       - Snaky4life
   - name: Main Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://vynx.vercel.app/
     assignees:
       - samosaman73
   - name: Helpdesk
