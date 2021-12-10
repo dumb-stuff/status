@@ -34,7 +34,7 @@ status-website:
     - title: Support
       href: https://vynx-bot.freshdesk.com
     - title: Status
-      href: /
+      href: https://vynx-bot.github.io/status/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
