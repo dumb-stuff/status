@@ -24,7 +24,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status
-  logoUrl: https://cdn.discordapp.com/attachments/911923321455652887/912400465612927056/sdfghjkl.png
+  logoUrl: https://vynx.pages.dev/sdfghjkl.png
   name: VYNX Status
   introTitle: "Welcome to **VYNX's** status page."
   introMessage: Here you can see live stats on the uptime of the VYNX bot.
