@@ -30,9 +30,9 @@ status-website:
   introMessage: Here you can see live stats on the uptime of the VYNX bot.
   navbar:
     - title: Home
-      href: /
+      href: https://vynx.pages.dev/
     - title: Support
-      href: /
+      href: https://vynx-bot.freshdesk.com
     - title: Status
       href: /
 
